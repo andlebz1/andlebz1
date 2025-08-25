@@ -1,32 +1,53 @@
-# 👋 Hi, I'm Andleeb
 
-🎓 MS Biochemistry Student | 🔬 Bioinformatics Enthusiast  
+# Hi there 👋, I'm Andleeb!
+
+🎓 **Biochemistry Student | COMSATS University**  
+🔬 Passionate about **Molecular Biology**, **Bioinformatics**, and **AI in Life Sciences**  
+🧪 Currently working on **Fluoride Neurotoxicity Research**  
 
 ![Dynamic Titles](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Biochemist;Researcher;Protein+Analyzer;DNA+Explorer)
+---
+
+### ​ **About Me**
+- 🔭 Worked on **DNA Dragon Primer Designing**
+- 🧪 Hands-on experience with **Molecular Biology Techniques**
+- 💻 Exploring **Python**, **Biopython**, and **Bioinformatics Tools**
+- 🌱 Learning **AI applications in Biology**
 
 ---
 
-## 🚀 Skills
-- Protein Sequence Analysis 🧪  
-- DNA Sequencing & BLAST 🧬  
-- Python & Biopython 🐍  
+### ​ **Lab Skills**
+- PCR (Polymerase Chain Reaction)  
+- Gel Electrophoresis  
+- DNA Extraction & Quantification  
+- ELISA (Enzyme-Linked Immunosorbent Assay)  
+- Spectrophotometry  
+- Cell Culture Basics  
 
-## 📫 Connect with me
-- [LinkedIn](https://www.linkedin.com)  
-- Email: your.email@example.com
-## Hi there 👋
+---
 
-<!--
-**andlebz1/andlebz1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ​ **Technical & Soft Skills**
+- **Languages:** Python, Biopython  
+- **Bioinformatics Tools:** BLAST, MEGA, Clustal Omega, Primer3  
+- **Other:** Data Analysis, Research Writing, Git & GitHub, Problem-Solving, Teamwork  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ​ **GitHub Stats**
+![Andleeb's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=radical)
+
+---
+
+### ​ **Dynamic Bio Section**
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&color=F72D4E&lines=Biochemist+in+the+making;Passionate+about+Genomics;Primer+Designer;Bioinformatics+Learner;AI+for+Life+Sciences;Python+%26+Biopython+Explorer)](https://git.io/typing-svg)
+
+---
+
+###  **How to Reach Me**
+- **Email:** [andlebz01@gmail.com](mailto:andlebz01@gmail.com)  
+- **LinkedIn:** [Andleeb Zahra](https://www.linkedin.com/in/andleeb-zahra-b431a7294)  
+- **ORCID:** [0009-0000-5999-188X](https://orcid.org/0009-0000-5999-188X)  
+
+---
+
