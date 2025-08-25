@@ -1,7 +1,6 @@
 
 # Hi there 👋, I'm Andleeb!
 
-### ​ **Dynamic Bio Section**
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&color=F72D4E&lines=Biochemist+in+the+making;Passionate+about+Genomics;Primer+Designer;Bioinformatics+Learner;AI+for+Life+Sciences;Python+%26+Biopython+Explorer)](https://git.io/typing-svg)
 
 
